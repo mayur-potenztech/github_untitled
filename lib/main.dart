@@ -4,6 +4,9 @@ import 'package:untitled/BottomNBar1.dart';
 import 'package:untitled/Practies1.dart';
 import 'package:untitled/Practies2.dart';
 
+import 'PRACTIES11.dart';
+import 'PRACTIES22.dart';
+import 'PRACTIES33.dart';
 import 'Practies3.dart';
 
 void main() {
@@ -38,7 +41,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: PRACTIES_3(),
+      home: FIRST_SCREEM(),
     );
   }
 }
